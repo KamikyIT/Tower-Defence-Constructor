@@ -1,0 +1,36 @@
+// TrapName | MinDamage | MaxDamage | AttackSpeed | NextUpgradeTrapName | MoneyCost | AttackType | AbilityType
+Fear		1	3	0.5	Fear2	35	Fear
+Void		1	3	0.5	Void2	35	Chaos
+Oblivion	1	3	0.5	Oblivion2	35	Poison
+Envy		1	3	0.5	Envy2	35	Fear
+Madness		1	1	0.3	Madness2	35	Light
+Hypocrisy	1	3	0.5	Hypocrisy2	35	Chaos
+Lust		1	3	0.5	Lust2	35	Light
+Pride		1	3	0.5	Pride2	35	Poison
+
+Fear2		4	8	0.3	Fear3	25	Fear	Ghost,60
+Void2		4	8	0.3	Void3	25	Chaos	Ghost,60
+Oblivion2	4	8	0.3	Oblivion3	25	Poison	Ghost,60
+Envy2		4	8	0.3	Envy3	25	Fear	
+Madness2	4	8	0.2	Madness3	25	Light	
+Hypocrisy2	4	8	0.3	Hypocrisy3	25	Chaos	Steal,45
+Lust2		4	8	0.3	Lust3	25	Light	Frost,60
+Pride2		4	8	0.3	Pride3	25	Poison	Envenom,60
+
+Fear3		8	15	0.3	Fear4	25	Fear	Ghost,30
+Void3		8	15	0.3	Void4	25	Chaos	Ghost,30
+Oblivion3	8	15	0.3	Oblivion4	25	Poison	Ghost,30
+Envy3		8	15	0.3	Envy4	25	Fear	
+Madness3	8	15	0.1	Madness4	25	Light	
+Hypocrisy3	8	15	0.3	Hypocrisy4	25	Chaos	Steal,30
+Lust3		8	15	0.3	Lust4	25	Light	Frost,30
+Pride3		8	15	0.3	Pride4	25	Poison	Envenom,40
+
+Fear4		20	50	0.2	None	50	Fear	Ghost,15
+Void4		20	50	0.2	None	50	Chaos	Ghost,15
+Oblivion4	20	50	0.2	None	50	Poison	Ghost,15
+Envy4		20	50	0.2	None	50	Fear	
+Madness4	20	50	0.1	None	50	Light	
+Hypocrisy4	20	50	0.2	None	50	Chaos	Steal,15
+Lust4		20	50	0.2	None	50	Light	Frost,15
+Pride4		20	50	0.2	None	50	Poison	Envenom,20

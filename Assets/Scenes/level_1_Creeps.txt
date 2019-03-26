@@ -1,0 +1,72 @@
+//PrefabName | WayId | Timing | Hp | MoveSpeed | KillReward | BrainsSteal
+
+// Wave 1
+Armature	2	0	5	7	2	1
+Armature	2	1	5	7	2	1
+Armature	2	2	5	7	2	1
+Armature	2	3	5	7	2	1
+Armature	2	4	5	7	2	1
+Armature	2	5	5	7	2	1
+Armature	2	6	5	7	2	1
+Armature	2	7	5	7	2	1
+Armature	2	8	5	7	2	1
+Armature	2	9	5	7	2	1
+Armature	2	10	5	7	2	1
+Armature	2	11	5	7	2	1
+Armature	2	12	5	7	2	1
+
+Armature	1	0	5	7	2	1
+Armature	1	1	5	7	2	1
+Armature	1	2	5	7	2	1
+Armature	1	3	5	7	2	1
+Armature	1	4	5	7	2	1
+Armature	1	5	5	7	2	1
+Armature	1	6	5	7	2	1
+Armature	1	7	5	7	2	1
+Armature	1	8	5	7	2	1
+Armature	1	9	5	7	2	1
+Armature	1	10	5	7	2	1
+Armature	1	11	5	7	2	1
+Armature	1	12	5	7	2	1
+
+// Wave 2
+Armature	2	20	5	7	2	1
+Armature	2	21	5	7	2	1
+Armature	2	22	5	7	2	1
+Armature	2	23	5	7	2	1
+Armature	2	24	5	7	2	1
+Armature	2	25	5	7	2	1
+Armature	2	26	5	7	2	1
+Armature	2	27	5	7	2	1
+Armature	2	28	5	7	2	1
+Armature	2	29	5	7	2	1
+Armature	2	30	5	7	2	1
+Armature	2	31	5	7	2	1
+Armature	2	32	5	7	2	1
+
+Armature	1	20	5	7	2	1
+Armature	1	21	5	7	2	1
+Armature	1	22	5	7	2	1
+Armature	1	23	5	7	2	1
+Armature	1	24	5	7	2	1
+Armature	1	25	5	7	2	1
+Armature	1	26	5	7	2	1
+Armature	1	27	5	7	2	1
+Armature	1	28	5	7	2	1
+Armature	1	29	5	7	2	1
+Armature	1	30	5	7	2	1
+Armature	1	31	5	7	2	1
+Armature	1	32	5	7	2	1
+
+// Wave 3
+Bird	1	40	55	4	5	5
+Bird	1	45	50	4	5	5
+Bird	1	50	55	4	5	5
+Bird	1	55	55	4	5	5
+Bird	1	60	55	4	5	5
+
+Bird	2	40	55	4	5	5
+Bird	2	45	50	4	5	5
+Bird	2	50	55	4	5	5
+Bird	2	55	55	4	5	5
+Bird	2	60	55	4	5	5
